@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Initial Ideas/Torsen LSD Onshape.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Torsen LSD Onshape"
             }
           }
         ]
@@ -168,10 +168,12 @@
   },
   "active": "cda503474aef4488",
   "lastOpenFiles": [
+    "README.md",
     "/README.md",
+    "/Initial Ideas/Torsen LSD Onshape.md",
+    "/Initial Ideas",
     "Untitled.md",
     "Process.md",
-    "README.md",
     "interactive presentation.md",
     "assets/what's assets.md",
     "assets/Pasted image 20260315001005.png",
