@@ -32,6 +32,6 @@ Every year, every student at Lincoln (sometimes freshman are excluded, they go b
 My Goal is to Demonstrate & Educate People on How Gearing Systems Work and Affect The World
 
 I am going to create and explain models of 
-> - 3 types of Differential (Open, Welded/Direct, Torsen)
-> - 2 types of Gearbox (Standard Manual, CVT)
+- 3 types of Differential (Open, Welded/Direct, Torsen)
+- 2 types of Gearbox (Standard Manual, CVT)
 and I am going to give out miniature versions of the open diff.
